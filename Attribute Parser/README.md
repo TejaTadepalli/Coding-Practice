@@ -81,7 +81,7 @@ tag1~name
 tag1~value
 ```
 
-#### ample Output:
+#### Sample Output:
 ```
 Name1
 Not Found!
